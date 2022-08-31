@@ -1,0 +1,50 @@
+@import 'helpers';
+:root {
+  --dangerColor: #f00;
+  --warningColor: #ffa500;
+  --textColor: #555;
+  --textColor2: #fff;
+  --borderColor: #777;
+  --accentColor: #5900a1;
+  --gap: 20px;
+  --borderRadus: calc(var(--gap) / 4);
+}
+* {
+  color: var(--textColor);
+}
+
+html, body {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h1, h2, h3, h4 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+svg {
+  fill: var(--accentColor);
+}
+
+.root {
+  display: grid;
+  grid-template-columns: minmax(375px, 1024px);
+  justify-content: center;
+  padding-bottom: 40px;
+}
+
+.container {
+  padding: 0 20px;
+}
+
+.title {
+  margin-bottom: 20px;
+}

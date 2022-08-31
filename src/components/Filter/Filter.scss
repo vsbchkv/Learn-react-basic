@@ -1,0 +1,37 @@
+.filter {
+  display: grid;
+  gap: var(--gap);
+  padding: var(--gap);
+  grid-template-columns: auto 1fr;
+
+  &__list {
+    @extend %list-unstyled;
+    display: flex;
+    column-gap: var(--gap);
+    grid-column: 2;
+  }
+
+  &__control {
+    height: auto;
+    &--active {
+      position: relative;
+
+      &::after {
+        content: "";
+        display: block;
+        position: absolute;
+        width: calc(100% + (var(--gap) / 2));
+        height: calc(100% + (var(--gap) / 2));
+        border-radius: 20px;
+        border: 2px solid var(--accentColor);
+      }
+    }
+  }
+
+  &__reset {
+    width: 26px;
+    height: 26px;
+    grid-column: 1;
+    grid-row: 1 / -1;
+  }
+}

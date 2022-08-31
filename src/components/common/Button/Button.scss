@@ -1,0 +1,22 @@
+.button {
+  @extend %button-unstyled;
+  border-radius: var(--borderRadus);
+
+  &:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+  }
+
+  &--primary {
+    border: 2px solid var(--accentColor);
+    background-color: var(--btnColor, var(--accentColor));
+    color: var(--textColor2);
+    padding: calc(var(--gap) / 2);
+    text-align: center;
+
+    &:not([disabled]):hover {
+      --btnColor: var(--textColor2);
+      color: var(--accentColor);
+    }
+  }
+}

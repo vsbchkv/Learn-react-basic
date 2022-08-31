@@ -1,0 +1,122 @@
+.product {
+  $this: &;
+  display: grid;
+  grid-template-areas: "img title title like" "img title title ..." "... price price..." "details edit ... del";
+  gap: calc(var(--gap) / 2);
+  border: 1px solid var(--accentColor);
+  border-radius: var(--borderRadus);
+  padding: var(--borderRadus);
+
+  &__like-icon {
+    grid-area: btns;
+    &--active {
+      --iconFill: var(--accentColor);
+    }
+  }
+
+  &__title {
+    grid-area: title;
+  }
+
+  &__price {
+    grid-area: price;
+    font-size: 28px;
+    font-weight: 700;
+    color: var(--accentColor);
+  }
+
+  &__img {
+    grid-area: img;
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+
+    &--detailed {
+      width: 400px;
+      height: 400px;
+    }
+  }
+
+  &__icon {
+    width: 30px;
+    height: 30px;
+  }
+
+  &__desc {
+    grid-area: desc;
+  }
+
+  &--create {
+    display: grid;
+    grid-template-areas: none;
+    place-content: center;
+    place-self: center;
+    width: calc(var(--gap) * 5);
+    height: calc(var(--gap) * 5);
+    --iconFill: var(--accentColor);
+    border: 0;
+  }
+
+  &__like {
+    grid-area: like;
+    place-self: start end;
+  }
+
+  &__delete {
+    grid-area: del;
+    justify-self: end;
+  }
+
+  &__details {
+    grid-area: details;
+  }
+
+  &__edit {
+    grid-area: edit;
+  }
+
+  &--detailed {
+    grid-template-areas: "title title title price" "img img desc desc" "like edit edit del";
+    grid-template-columns: min-content min-content auto auto;
+    border: 0;
+
+    #{$this}__title {
+      font-size: 30px;
+    }
+
+    #{$this}__like {
+      place-self: baseline start;
+    }
+  }
+
+  &-edit {
+    display: grid;
+    row-gap: calc(var(--gap) / 2);
+  }
+
+  &-edit__submit {
+    border: 1px solid var(--accentColor);
+    justify-self: center;
+    min-width: 300px;
+    padding: 8px 16px;
+    font-size: 16px;
+  }
+
+  &-create {
+    display: grid;
+    gap: calc(var(--gap) / 2);
+    justify-items: center;
+    text-decoration: none;
+    text-align: center;
+
+    &--horizontal {
+      grid-auto-flow: column;
+      align-items: center;
+    }
+  }
+
+  &-create__icon {
+    width: 70px;
+    height: 70px;
+  }
+}

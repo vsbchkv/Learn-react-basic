@@ -1,0 +1,192 @@
+{
+  "g1": {
+    "id": "g1",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/53/533745/1200/preview.jpg",
+    "like": false,
+    "brand": "Gibson",
+    "price": 753,
+    "title": "Gibson Les Paul Special Tribute Humbucker, Worn White",
+    "description": "Legendary Les Paul tone at the hands of two vintage 490 R \u0026 T humbuckers Classic Gibson feel provided by sleek rosewood fingerboard and mahogany neck Elegant style and superb tuning stability, thanks to stunning, chrome wraparound bridge Discover the legacy of the world's most iconic guitar - the Gibson Les Paul",
+    "categorie": "guitars"
+  },
+  "g2": {
+    "id": "g2",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/60/604503/1200/preview.jpg",
+    "like": false,
+    "brand": "Gibson",
+    "price": 1349,
+    "title": "Gibson SG Standard, Heritage Cherry",
+    "description": "Based on the legendary SG models of the '60s Classic, crunchy tones with two world class humbuckers Unbelievable playability thanks to expertly crafted mahogany neck An iconic guitar with exceptional tone",
+    "categorie": "guitars"
+  },
+  "g3": {
+    "id": "g3",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/56/566451/1200/preview.jpg",
+    "like": false,
+    "brand": "Gibson",
+    "price": 1599,
+    "title": "Gibson Firebird, Tobacco Sunburst",
+    "description": "Relive the original voice of the Firebird with redeveloped mini humbuckers - authentic Deliver an unforgettable performance with a searing sonic attitude and a scorching output A modern take on a classic design that stays true to the Firebird characteristics you love Slim neck and bound rosewood fingerboard for an effortless feel where creativity thrives",
+    "categorie": "guitars"
+  },
+  "g4": {
+    "id": "g4",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/55/551577/1200/preview.jpg",
+    "like": false,
+    "brand": "Gibson",
+    "price": 2639,
+    "title": "Gibson ES-339 Figured, Blueberry Burst",
+    "description": "Sublime Gibson sound and expert craftsmanshipLooks divine with a 3-ply AAA figured maple/poplar/maple topPowerful, versatile, classic tone thanks to MHS II humbuckersSupreme playability from quarter sawn mahogany neck",
+    "categorie": "guitars"
+  },
+  "g5": {
+    "id": "g5",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/53/533469/1200/preview.jpg",
+    "like": false,
+    "brand": "Gibson",
+    "price": 1749,
+    "title": "Gibson Flying V 70s, Classic White",
+    "description": "Soar to new heights on the 70s hard rock iconSmooth, strain-free playability from a slim taper neck Explore a full spectrum of tone from two signature humbucker pickups Join the world's best musicians who have taken the Flying V to stages around the world",
+    "categorie": "guitars"
+  },
+  "g6": {
+    "id": "g6",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/46/466618/1200/preview.jpg",
+    "like": false,
+    "brand": "Gibson",
+    "price": 1499,
+    "title": "Gibson Explorer, Antique Natural",
+    "description": "Vintage, powerful, PAF-style tone thanks to Burstbucker humbuckers Incredible feel with slim tapered mahogany neck Beautiful resonance from mahogany body Classic, unique, renowned body shape - an icon",
+    "categorie": "guitars"
+  },
+  "g7": {
+    "id": "g7",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/63/634470/1200/preview.jpg",
+    "like": false,
+    "brand": "Jackson",
+    "price": 1999,
+    "title": "Jackson RRT5 Rhoads MJ Series,Black",
+    "description": "An articulate yet crunchy tone is produced by Seymour Duncan JB/'59 pickups Play ferociously - a sturdy maple neck with graphite support can handle anythingNever stop exploring new possibilities, an alder body is superbly versatile Reliable protection is brought in the form of a robust foam core case",
+    "categorie": "guitars"
+  },
+  "g8": {
+    "id": "g8",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/45/457139/1200/preview_1.jpg",
+    "like": false,
+    "brand": "Jackson",
+    "price": 179,
+    "title": "Jackson JS22 JS-Series Monarkh SC, Snow White",
+    "description": "Incredible playability thanks to a compound radius fretboard Powerful, crushing tone from dual Jackson high-output humbuckers Excellent durability with high-quality hardware A modern rock and metal machine",
+    "categorie": "guitars"
+  },
+  "g9": {
+    "id": "g9",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/53/530037/1200/preview.jpg",
+    "like": false,
+    "brand": "Jackson",
+    "price": 639,
+    "title": "Jackson SLXDX Soloist, Satin White Swirl",
+    "description": "Stunning, one-of-a-kind style provided by distinctive swirl finishA tone of pure aggression, thanks to a pair of high-output Jackson humbuckers Fuel your sound with the expression of a locking Floyd Rose tremolo bridgePlay with total freedom, courtesy of a sleek laurel fretboard and compound radius",
+    "categorie": "guitars"
+  },
+  "g10": {
+    "id": "g10",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/63/631562/1200/preview.jpg",
+    "like": false,
+    "brand": "Gretsch",
+    "price": 629,
+    "title": "Gretsch G5622T Electromatic CB DC, Speyside",
+    "description": "A high-end, studio and stage-ready guitar for serious musicians Classy Speyside finish oozes vintage charm - turn heads Unrestrained electric power with Broad'Tron pickups and high gain spruce centre block Add classic twang and touch of tremolo to your lead playing with an iconic Bigsby tailpiece",
+    "categorie": "guitars"
+  },
+  "g11": {
+    "id": "g11",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/63/631571/1200/preview.jpg",
+    "like": false,
+    "brand": "Gretsch",
+    "price": 2759,
+    "title": "Gretsch G6128T 89 VS Duo Jet, Black",
+    "description": "Beautiful sonic richness and sustain emanates from a lightweight chambered body Experience a gorgeous vintage tone produced by TV Jones pickups Make full use of a stunning tremolo system with incredible tuning stability The epitome of Gretsch's renowned, unwavering quality and iconic sound",
+    "categorie": "guitars"
+  },
+  "g12": {
+    "id": "g12",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/63/634376/1200/preview.jpg",
+    "like": false,
+    "brand": "Fender",
+    "price": 2119,
+    "title": "Fender American Ultra Luxe Stratocaster HSS FR MN, Silverburst",
+    "description": "Play with ultimate clarity, thanks to noiseless single-coil and humbucking pickupsLuxury performance offered by sleek maple neck and meticulous fret treatmentFuel your performance with the expression of a locking Floyd Rose tremolo Includes an deluxe hardshell case for maximum security",
+    "categorie": "guitars"
+  },
+  "g13": {
+    "id": "g13",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/68/688294/1200/preview.jpg",
+    "like": false,
+    "brand": "Fender",
+    "price": 1209,
+    "title": "Fender Boxer Telecaster HH, Inca Silver",
+    "description": "A sizzling hot return from the '80s Project an incredible, articulate, and dynamic tone with Boxer humbuckers Fret with ease and comfort on a silky-smooth rosewood fretboard Don't hold back - a sturdy maple neck can handle any fearless playing",
+    "categorie": "guitars"
+  },
+  "g14": {
+    "id": "g14",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/53/537489/1200/preview.jpg",
+    "like": false,
+    "brand": "Fender",
+    "price": 529,
+    "title": "Fender Player Mustang 90 MN, Sea Foam Green",
+    "description": "Classic Mustang design with updated, modern features Bright, vintage tone from punchy MP-90 pickups Plays like a dream thanks to satin urethane-finished neck Dare to be different with this pristine guitar",
+    "categorie": "guitars"
+  },
+  "g15": {
+    "id": "g15",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/47/478606/1200/preview.jpg",
+    "like": false,
+    "brand": "ESP",
+    "price": 1299,
+    "title": "ESP LTD Snakebyte James Hetfield, Snow White",
+    "description": "Punchy, clear tone provided by custom JH Set EMG active pickups. Effortless playability with thin U mahogany neck Eye catching aesthetic utilising snake inlay and snow white finish Signature guitar of Metallica guitarist James Hetfield",
+    "categorie": "guitars"
+  },
+  "g16": {
+    "id": "g16",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/64/647181/1200/preview.jpg",
+    "like": false,
+    "brand": "PRS",
+    "price": 775,
+    "title": "PRS SE Custom 24 Limited Edition, Amber Fade",
+    "description": "Limited Edition finish adorns unique PRS style and quality Searing PRS tone stems from iconic 85/15S humbuckers Ultimate playing freedom delivered by sleek rosewood fretboard and maple neck Limitless sonic potential, with an equipped tremolo system",
+    "categorie": "guitars"
+  },
+  "b1": {
+    "id": "b1",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/37/370309/1200/preview.jpg",
+    "like": false,
+    "brand": "Fender",
+    "price": 665,
+    "title": "Fender Player Jazz Bass PF, 3-Tone Sunburst",
+    "description": "Supreme tonal versatility and powerful punch emitted from a pair of single-coil pickups Effortless practice and performance is offered by a sleek maple neck First-rate 4-saddle bridge maintains excellent tuning stability All the hallmarks of a vintage classic, tailored for the modern player",
+    "categorie": "basses"
+  },
+  "b2": {
+    "id": "b2",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/48/480698/1200/preview.jpg",
+    "like": false,
+    "brand": "Rickenbacker",
+    "price": 2599,
+    "title": "Rickenbacker 4003 Bass, Matte Black",
+    "description": "Sensational single-coil pickups deliver powerful, wide-reaching, vintage tones Gorgeous sustain in every note thanks to neck-through-body construction Maple body welcomes any genre or playing style Based on the legendary 4001 bass, this is sound fit for the very, very best",
+    "categorie": "basses"
+  },
+  "b3": {
+    "id": "b3",
+    "img": "https://d1aeri3ty3izns.cloudfront.net/media/44/443731/1200/preview.jpg",
+    "like": false,
+    "brand": "Warwick",
+    "price": 1475,
+    "title": "Warwick GPS Corvette 4A Ash Active, Natural Transparent Satin",
+    "description": "Comes with Starline RockBag Just a Nut 3 - enhances sustain - keeps strings in tune Swamp Ash wood for tonewood gives bass beautiful bright sustains Made in Germany under the watchful eye of the Warwick team",
+    "categorie": "basses"
+  }
+}

@@ -1,0 +1,9 @@
+.header {
+  display: grid;
+  height: 80px;
+  padding: var(--gap);
+
+  &__logo {
+    width: 80px;
+  }
+}

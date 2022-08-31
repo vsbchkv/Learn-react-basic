@@ -1,0 +1,69 @@
+.input {
+  $this: &;
+  display: grid;
+  grid-auto-rows: auto minmax(1.3em, min-content);
+  row-gap: calc(var(--gap) / 4);
+
+  &--required {
+    position: relative;
+
+    &::before {
+      content: "*";
+      position: absolute;
+      right: 0;
+      top: 0;
+      font-size: 30px;
+      color: var(--accentColor);
+    }
+  }
+
+  &--error {
+    --accentColor: var(--dangerColor);
+    color: var(--dangerColor);
+
+    #{$this}__input {
+      --borderColor: var(--dangerColor);
+    }
+  }
+
+  &:not(#{$this}--error) {
+    &::after {
+      content: "";
+    }
+  }
+
+  &__label {
+    display: grid;
+    row-gap: calc(var(--gap) / 2);
+    color: inherit;
+  }
+
+  &__label {
+    font-weight: 600;
+  }
+
+  &__label,
+  &__input {
+    font-size: 18px;
+  }
+
+  &__input {
+    @extend %input-unstyled;
+    border: 2px solid var(--borderColor);
+    border-radius: 5px;
+    padding: 10px;
+    
+    &:focus + #{$this}__message {
+      display: none;
+    }
+
+    &--textarea {
+      min-height: 200px;
+      resize: vertical;
+    }
+  }
+
+  &__message {
+    color: var(--warningColor);
+  }
+}
